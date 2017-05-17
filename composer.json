@@ -1,0 +1,18 @@
+{
+    "name": "laravel/login-r",
+    "description": "this is test laravel extentisv",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xingzhilong",
+            "email": "339191949@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "LoginR\\Src\\": "src/"
+        }
+    }
+}
